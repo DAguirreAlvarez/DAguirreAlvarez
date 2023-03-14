@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for a job and learning to program to develop myself as a professional Developer.<br>If you know something that i have to learn email me.
+I'm currently looking for a job and learning to program to develop myself as a professional Developer.<br>If you know something that i have to learn 📧mail me, or if you want to offer me an oportunity.
 
 
 # 💻 Tech Stack:
