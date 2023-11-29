@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm currently looking for a job and learning to program to develop myself as a professional Developer.<br>If you know something that i have to learn 📧mail me, or if you want to offer me an oportunity.
+📧 Diego.a.aguirre.alvarez@gmail.com
+
 
 
 # 💻 Tech Stack:
